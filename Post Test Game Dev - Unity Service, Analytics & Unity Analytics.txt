@@ -1,0 +1,32 @@
+Nama layanan dari unity yang membantu game developer untuk melakukan game ops seperti monetisasi iklan, 
+akuisisi pemain, analytics dan sebagainya adalah ? Unity Gaming Ops
+
+Layanan game ops unity yang berfungsi untuk mendapatkan insight dari data user yang dikumpulkan adalah 
+Unity Collect
+
+Dashboard pada Unity Analytics adalah Tempat data ditampilkan / divisualisasikan
+
+Dibawah ini adalah Dashboard Unity analytics yang tersedia Retention
+
+Singkatan DAU adalah Daily Active User
+
+Fungsi dari metriks DAU adalah  Mengetahui jumlah pemain aktif harian
+
+Apa fungsi dari Retention dashboard? Memperlihatkan data pemain yang memainkan game setelah menginstal
+
+Apa fungsi dari Revenue dashboard? Memperlihatkan proyeksi keuntungan perusahaan
+
+Dibawah ini yang termasuk dari layanan Unity Gaming Service Unity Analytics
+
+Fungsi dari Unity Remote Config adalah Memperlihatkan tampilan game dari smartphone
+
+Untuk dapat menggunakan Unity Remote Config diperlukan package Cloud Remote Config
+
+Data pada Unity Remote Config memiliki struktur 	Key, Value
+
+3 Tahap dalam menggunakan Unity Remote Config adalah Initialization, Fetching settings, implement custom attribute.
+
+API untuk melakukan initialization pada Unity Remote Config adalah UnityGamingServices.InitializeAsync()
+
+API untuk mengambil remote config properties adalah UnityServices.FetchConfigs
+

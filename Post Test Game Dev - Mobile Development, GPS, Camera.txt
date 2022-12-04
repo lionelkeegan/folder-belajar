@@ -1,0 +1,30 @@
+GPS merupakan singkatan dari Global Positioning System
+
+Fungsi dari GPS adalah Mengetahui lokasi device
+
+API untuk mengecek apakah pengguna mengizinkan penggunaan GPS pada aplikasi Unity adalah Input.location.isEnabledByUser
+
+Setelah mengecek akses ke GPS, Kita perlu memulai Location Service pada unity dengan menggunakan API Input.location.Start()
+
+LocationServiceStatus berfungsi untuk mendeskripsikan status dari Location Service, yang bukan termasuk dari LocationServiceStatus adalah LocationServiceStatus.Canceled
+
+Status LocationServiceStatus.Running menjelaskan bahwa Location Service sedang aktif dan bisa diambil datanya
+
+Untuk mendapatkan data GPS dapat menggunakan API Input.location.lastData
+
+Nilai garis lintang dapat diambil dari property latitude
+
+Nilai garis bujur dapat diambil dari property longitude
+
+API untuk mendapatkan list dari kamera yang terdeteksi oleh sistem pada Unity adalah WebCamTexture.devices
+
+API untuk mengambil image stream dari sebuah kamera pada Unity adalah WebCamTexture.Play
+
+API untuk mengetahui apakah sebuah kamera merupakan kamera depan / belakang adalah WebCamDevice.isFrontFacing
+
+Untuk mematikan image stream dari sebuah kamera menggunakan API WebCamTexture.Stop
+
+Dibawah ini merupakan API camera pada unity WebcamDevice.isFrontFacing, WebcamTexture.devices
+
+API untuk mengetahui apakah gambar dari sebuah kamera termirror adalah WebCamTexture.videoVerticallyMirrored
+
