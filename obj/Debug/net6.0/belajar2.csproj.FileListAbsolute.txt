@@ -1,0 +1,15 @@
+C:\game dev\belajar\belajar2\obj\Debug\net6.0\belajar2.csproj.AssemblyReference.cache
+C:\game dev\belajar\belajar2\obj\Debug\net6.0\belajar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\game dev\belajar\belajar2\obj\Debug\net6.0\belajar2.AssemblyInfoInputs.cache
+C:\game dev\belajar\belajar2\obj\Debug\net6.0\belajar2.AssemblyInfo.cs
+C:\game dev\belajar\belajar2\obj\Debug\net6.0\belajar2.csproj.CoreCompileInputs.cache
+C:\game dev\belajar\belajar2\bin\Debug\net6.0\belajar2.exe
+C:\game dev\belajar\belajar2\bin\Debug\net6.0\belajar2.deps.json
+C:\game dev\belajar\belajar2\bin\Debug\net6.0\belajar2.runtimeconfig.json
+C:\game dev\belajar\belajar2\bin\Debug\net6.0\belajar2.dll
+C:\game dev\belajar\belajar2\bin\Debug\net6.0\belajar2.pdb
+C:\game dev\belajar\belajar2\obj\Debug\net6.0\belajar2.dll
+C:\game dev\belajar\belajar2\obj\Debug\net6.0\refint\belajar2.dll
+C:\game dev\belajar\belajar2\obj\Debug\net6.0\belajar2.pdb
+C:\game dev\belajar\belajar2\obj\Debug\net6.0\belajar2.genruntimeconfig.cache
+C:\game dev\belajar\belajar2\obj\Debug\net6.0\ref\belajar2.dll
