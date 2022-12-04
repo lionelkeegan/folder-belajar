@@ -1,0 +1,15 @@
+C:\game dev\pelajaran1\bin\Debug\net6.0\pelajaran1.exe
+C:\game dev\pelajaran1\bin\Debug\net6.0\pelajaran1.deps.json
+C:\game dev\pelajaran1\bin\Debug\net6.0\pelajaran1.runtimeconfig.json
+C:\game dev\pelajaran1\bin\Debug\net6.0\pelajaran1.dll
+C:\game dev\pelajaran1\bin\Debug\net6.0\pelajaran1.pdb
+C:\game dev\pelajaran1\obj\Debug\net6.0\pelajaran1.csproj.AssemblyReference.cache
+C:\game dev\pelajaran1\obj\Debug\net6.0\pelajaran1.GeneratedMSBuildEditorConfig.editorconfig
+C:\game dev\pelajaran1\obj\Debug\net6.0\pelajaran1.AssemblyInfoInputs.cache
+C:\game dev\pelajaran1\obj\Debug\net6.0\pelajaran1.AssemblyInfo.cs
+C:\game dev\pelajaran1\obj\Debug\net6.0\pelajaran1.csproj.CoreCompileInputs.cache
+C:\game dev\pelajaran1\obj\Debug\net6.0\pelajaran1.dll
+C:\game dev\pelajaran1\obj\Debug\net6.0\refint\pelajaran1.dll
+C:\game dev\pelajaran1\obj\Debug\net6.0\pelajaran1.pdb
+C:\game dev\pelajaran1\obj\Debug\net6.0\pelajaran1.genruntimeconfig.cache
+C:\game dev\pelajaran1\obj\Debug\net6.0\ref\pelajaran1.dll
